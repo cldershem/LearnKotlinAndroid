@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Thirty Days</string>
+    <string name="tip1">Tip One</string>
+    <string name="tip1_description">
+        Tip One Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip2">Tip Two</string>
+    <string name="tip2_description">
+        Tip Two Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip3">Tip Three</string>
+    <string name="tip3_description">
+        Tip Three Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip4">Tip Four</string>
+    <string name="tip4_description">
+        Tip Four Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip5">Tip Five</string>
+    <string name="tip5_description">
+        Tip Five Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip6">Tip Six</string>
+    <string name="tip6_description">
+        Tip Six Description</string>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    <string name="tip7">Tip Seven</string>
+    <string name="tip7_description">
+        Tip Seven Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip8">Tip Eight</string>
+    <string name="tip8_description">
+        Tip Eight Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip9">Tip Nine</string>
+    <string name="tip9_description">
+        Tip Nine Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip10">Tip Ten</string>
+    <string name="tip10_description">
+        Tip Ten Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip11">Tip Eleven</string>
+    <string name="tip11_description">
+        Tip Eleven Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip12">Tip Twelve</string>
+    <string name="tip12_description">
+        Tip Twelve Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip13">Tip Thirteen</string>
+    <string name="tip13_description">
+        Tip Thirteen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip14">Tip Fourteen</string>
+    <string name="tip14_description">
+        Tip Fourteen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip15">Tip Fifteen</string>
+    <string name="tip15_description">
+        Tip Fifteen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip16">Tip Sixteen</string>
+    <string name="tip16_description">
+        Tip Sixteen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip17">Tip Seventeen</string>
+    <string name="tip17_description">
+        Tip Seventeen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip18">Tip Eighteen</string>
+    <string name="tip18_description">
+        Tip Eighteen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip19">Tip Nineteen</string>
+    <string name="tip19_description">
+        Tip Nineteen Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip20">Tip Twenty</string>
+    <string name="tip20_description">
+        Tip Twenty Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip21">Tip Twenty-one</string>
+    <string name="tip21_description">
+        Tip Twenty-one Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip22">Tip Twenty-two</string>
+    <string name="tip22_description">
+        Tip Twenty-two Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip23">Tip Twenty-three</string>
+    <string name="tip23_description">
+        Tip Twenty-three Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip24">Tip Twenty-four</string>
+    <string name="tip24_description">
+        Tip Twenty-four Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip25">Tip Twenty-five</string>
+    <string name="tip25_description">
+        Tip Twenty-five Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip26">Tip Twenty-six</string>
+    <string name="tip26_description">
+        Tip Twenty-six Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip27">Tip Twenty-seven</string>
+    <string name="tip27_description">
+        Tip Twenty-seven Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip28">Tip Twenty-eight</string>
+    <string name="tip28_description">
+        Tip Twenty-eight Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip29">Tip Twenty-nine</string>
+    <string name="tip29_description">
+        Tip Twenty-nine Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+    <string name="tip30">Tip Thirty</string>
+    <string name="tip30_description">
+        Tip Thirty Description
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet egestas neque, a malesuada nisi porta nec. Nulla malesuada maximus felis. Donec sit amet nibh consectetur, congue velit quis, hendrerit nulla. Cras malesuada, magna at efficitur blandit, risus erat aliquet libero, eu scelerisque mi purus et neque. Fusce viverra nibh sed imperdiet aliquam. Suspendisse vel congue lacus. Nulla arcu nisl, varius quis feugiat a, consequat ac lacus. Integer nulla enim, cursus aliquam vulputate non, porta non erat. Vivamus euismod neque velit, in vestibulum lorem aliquam ac.
+    </string>
+</resources>
